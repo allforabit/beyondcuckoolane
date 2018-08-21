@@ -3,3 +3,4 @@
 .idea/
 .react-playground/
 .tern-port 
+node_modules
